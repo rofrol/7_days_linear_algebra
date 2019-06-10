@@ -3,7 +3,10 @@ Doing this https://machinelearningmastery.com/linear-algebra-machine-learning-7-
 For more material
 
 - https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/syllabus/
+  - https://www.youtube.com/watch?v=hNDFwVVKVk0&list=PL221E2BBF13BECF6C
 - https://www.khanacademy.org/math/linear-algebra/
+- https://www.khanacademy.org/math/algebra-home/alg-vectors
+- https://www.khanacademy.org/math/algebra-home/alg-matrices
 
 
 ## Anaconda vs PyPi vs Docker
@@ -54,6 +57,10 @@ For now I am just doing:
 - https://likegeeks.com/numpy-array-tutorial/
 - https://stackoverflow.com/questions/5064822/how-to-add-items-into-a-numpy-array
 - https://stackoverflow.com/questions/45123559/printing-return-value-in-function
+- https://stackoverflow.com/questions/6967463/iterating-over-a-numpy-array/6967491#6967491
+  - https://stackoverflow.com/questions/42082607/iterate-over-numpy-with-index-numpy-equivalent-of-python-enumerate/42082685#42082685
+  - https://docs.scipy.org/doc/numpy/reference/generated/numpy.ndenumerate.html
+- https://stackoverflow.com/questions/25129195/how-to-access-an-element-in-a-numpy-array/25230173#25230173
 
 ## vector dot product
 
