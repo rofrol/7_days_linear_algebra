@@ -4,9 +4,21 @@ For more material
 
 - https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/syllabus/
   - https://www.youtube.com/watch?v=hNDFwVVKVk0&list=PL221E2BBF13BECF6C
+  - https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/2
+    - fundamental problem of linear algebra is to solve a system of linear equations
+    - linear combination is the most fundamental in thw whole course
+    - https://en.m.wikipedia.org/wiki/Coefficient_matrix
+    - singular - if not vectors are not independent - they are combinations of others?
+  - https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/an-overview-of-key-ideas/
+    - anybody who computes, who's living in the real world, is using linear algebra. You're taking a
+differential equation, you're taking your model, making it discrete and computing with matrices.
+The world's digital now, not analog.
 - https://www.khanacademy.org/math/linear-algebra/
+  - https://pl.khanacademy.org/math/algebra-home
 - https://www.khanacademy.org/math/algebra-home/alg-vectors
 - https://www.khanacademy.org/math/algebra-home/alg-matrices
+- https://www.khanacademy.org/math/algebra-home/alg-matrices/alg-matrices-as-transformations/a/matrices-as-transformations
+  - College (University) age 18-22 https://en.m.wikipedia.org/wiki/Education_in_the_United_States#Educational_stages
 
 
 ## Anaconda vs PyPi vs Docker
